@@ -27,7 +27,7 @@ docker run -t --name spring-app-jpa-container --link mysql-docker-container:mysq
 
 
 
-Step 1:With out docker compose
+Step 2 :With docker compose
 ===============================
 
 1.docker build -f Dockerfile -t spring-app-jpa-container  .
